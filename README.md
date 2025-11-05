@@ -104,10 +104,11 @@
   <p>
     As a learner, my focus is on writing clean, simple code and documenting the steps I take. I organize projects like this:
   </p>
-  <pre style="background:#f6f8fa; padding:12px; border-radius:6px; overflow:auto"> 
+<!--  <pre style="background:#f6f8fa; padding:12px; border-radius:6px; overflow:auto"> 
 -- /README.md        # overview of what I’m practicing
 -- /docs            # notes and learning logs
 -- /src             # code experiments
 -- /examples        # small demos
   </pre>
+-->
 </section>
