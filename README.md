@@ -7,13 +7,6 @@
   </p>
 
   <p>
-    <a href="https://github.com/belalzz" target="_blank">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/belalzz?label=Followers&style=for-the-badge" />
-    </a>
-    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=belalzz&style=for-the-badge" />
-  </p>
-
-  <p>
     <a href="https://linkedin.com/in/belal-alaskary-9429712a9" target="_blank">LinkedIn</a> •
     <a href="https://twitter.com/@Belalz_" target="_blank">Twitter</a> •
     <a href="mailto:belal.khaled041@gmail.com">Email</a>
