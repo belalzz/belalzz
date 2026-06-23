@@ -68,15 +68,15 @@
   <section style="flex:1 1 420px; min-width:320px;">
     <h2>Learning Journey</h2>
     <article style="border-radius:8px; padding:12px; margin-bottom:12px; box-shadow:0 2px 6px rgba(0,0,0,0.05)">
-      <h3>📘 Operating Systems (in progress)</h3>
+      <h3> Operating Systems (in progress)</h3>
       <p>Currently studying how operating systems manage memory, processes, and I/O. Experimenting with tiny OS components in C.</p>
     </article>
     <article style="border-radius:8px; padding:12px; margin-bottom:12px; box-shadow:0 2px 6px rgba(0,0,0,0.05)">
-      <h3>⚙️ Algorithms & Data Structures</h3>
+      <h3> Algorithms & Data Structures</h3>
       <p>Practicing graphs, trees, and dynamic programming through coding challenges and small library implementations.</p>
     </article>
     <article style="border-radius:8px; padding:12px; margin-bottom:12px; box-shadow:0 2px 6px rgba(0,0,0,0.05)">
-      <h3>🌐 Web Development</h3>
+      <h3> Web Development</h3>
       <p>Building practice projects with HTML, CSS, JavaScript, aiming to understand both frontend and backend workflows.</p>
     </article>
     <h3>Roadmap (what's next)</h3>
