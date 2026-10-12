@@ -8,7 +8,6 @@
 
   <p>
     <a href="https://linkedin.com/in/belal-alaskary-9429712a9" target="_blank">LinkedIn</a> •
-    <a href="https://twitter.com/@Belalz_" target="_blank">Twitter</a> •
     <a href="mailto:belal.khaled041@gmail.com">Email</a>
     <!--
       <a href="{{RESUME_LINK}}" target="_blank">Resume</a>
@@ -31,25 +30,6 @@
       <li>Practicing full-stack web development to build real applications</li>
       <li>Applying math concepts to programming and problem solving</li>
     </ul>
-    <h3>Current Skills & Tools</h3>
-    <table>
-      <tr>
-        <td><strong>Programming</strong></td>
-        <td>C, C++, Python, JavaScript, Java</td>
-      </tr>
-      <tr>
-        <td><strong>Web</strong></td>
-        <td>HTML/CSS</td>
-      </tr>
-      <tr>
-        <td><strong>CS Foundations</strong></td>
-        <td>Data structures, algorithms, complexity basics</td>
-      </tr>
-      <tr>
-        <td><strong>Tools</strong></td>
-        <td>Git, GitHub, Linux basics</td>
-      </tr>
-    </table>
     <h3>Learning Highlights</h3>
     <ul>
       <li>Built small CLI tools to practice C/C++</li>
@@ -79,13 +59,6 @@
       <h3> Web Development</h3>
       <p>Building practice projects with HTML, CSS, JavaScript, aiming to understand both frontend and backend workflows.</p>
     </article>
-    <h3>Roadmap (what's next)</h3>
-    <ul>
-      <li>Deepen C/C++ skills by building a toy OS step by step</li>
-      <li>Solve problems on data-structures and algorithm problems for practice</li>
-      <li>Build and deploy a full-stack personal project</li>
-    </ul>
-    <h3>How to follow my journey</h3>
     <p>I’ll document my progress in each repo with <code>/docs/</code> notes and keep READMEs updated to share what I’m learning.</p>
   </section>
 </div>
